@@ -2,7 +2,7 @@
 - 🎐 My name is zhuxia
 - 🌱 I’m currently learning Dart/Flutter
 # How to reach me 🤔
-- ✉️ Twitter(X): ...
+- ✉️ Twitter(X): https://x.com/zxdev26
 # My Skill 🤔
 - HTML/CSS, Python
 
