@@ -1,8 +1,8 @@
 # About Me 🤔
-- 🎐 My name is zhuxia
-- 🌱 I’m currently learning Dart/Flutter
+- 🎐 My name is zhuxia, i am Japanese student
+- 🌱 I’m currently learning TypeScript, React.js
 # How to reach me 🤔
-- ✉️ Twitter(X): https://x.com/zxdev26
+- ✉️ Twitter(X): https://x.com/zhuxia26
 # My Skill 🤔
 - HTML/CSS, Python
 
