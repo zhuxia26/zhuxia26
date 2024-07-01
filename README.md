@@ -1,8 +1,11 @@
 # About Me 🤔
 - 🎐 My name is zhuxia, i am Japanese student
 - 🌱 I’m currently learning TypeScript, React.js
+- ❤ I like Eve, People 1, Tatsuya Kitani
 # How to reach me 🤔
-- ✉️ Twitter(X): https://x.com/zhuxia26
+- Twitter(X): @zhuxia26
+- Discord; @zhuxia26
+- Qiita: @zhuxia26
 # My Skill 🤔
 - HTML/CSS, Python
 
