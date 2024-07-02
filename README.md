@@ -1,6 +1,6 @@
 # About Me 🤔
 - 🎐 My name is zhuxia, i am Japanese student
-- ❤ I like Eve, People 1, Tatsuya Kitani
+- ❤ I like [Eve](https://www.youtube.com/@ooo0eve0ooo), [People 1](https://www.youtube.com/@PEOPLE1), [Chevon](https://www.youtube.com/@chevon_official)
 # How to reach me 🤔
 - Twitter(X): [@zhuxia26](https://twitter.com/zhuxia26)
 - Discord: [@zhuxia26](https://discordapp.com/users/1135364012905873498)
