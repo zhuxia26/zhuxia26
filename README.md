@@ -2,9 +2,8 @@
 - 🎐 My name is zhuxia, i am Japanese student
 - ❤ I like [Eve](https://www.youtube.com/@ooo0eve0ooo), [People 1](https://www.youtube.com/@PEOPLE1), [Chevon](https://www.youtube.com/@chevon_official)
 # How to reach me 🤔
-- Twitter(X): [@zhuxia26](https://twitter.com/zhuxia26)
-- Discord: [@zhuxia26](https://discordapp.com/users/1135364012905873498)
-- Qiita: [@zhuxia26](https://qiita.com/zhuxia26)
+- Twitter(X): [@zhuxialpha](https://twitter.com/zhuxialpha)
+- zenn.dev: [@zhuxialpha](https://zenn.dev/zhuxialpha)
 # My Skill 🤔
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,sqlite,firebase,cloudflare" /><br>
 # I’m currently learning 🤔
